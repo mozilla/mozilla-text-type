@@ -16,8 +16,10 @@ certifi==2025.4.26
 cffi==1.17.1
 cffsubr==0.3.0
 charset-normalizer==3.4.2
+click==8.2.1
 cmarkgfm==2024.11.20
 collidoscope==0.6.5
+colorlog==6.9.0
 commandlines==0.4.1
 compreffor==0.5.6
 cryptography==44.0.3
@@ -45,6 +47,7 @@ GitPython==3.1.44
 glyphsets==1.1.0
 glyphsLib==6.10.1
 h11==0.16.0
+hyperglot==0.6.2
 idna==3.10
 importlib_resources==6.5.2
 Jinja2==3.1.6
